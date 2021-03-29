@@ -1,0 +1,46 @@
+{
+        "productos":[
+        {    
+            "nombre":"Buzo Timothee",
+            "tipo":"buzo",
+            "color":"Negro",
+            "precio":1500,
+            "img":"img/not.jpg"
+            },
+        {
+            "nombre":"Remera Timothee",
+            "tipo":"remera",
+            "color":"Blanco",
+            "precio":900,
+            "img":"img/not.jpg"
+            },
+        {
+            "nombre":"Gorra Dezahrt",
+            "tipo":"gorra",
+            "color":"Negro",
+            "precio":600,
+            "img":"img/not.jpg"
+            },
+        {
+            "nombre":"Remera Oversize",
+            "tipo":"remera",
+            "color":"Blanco",
+            "precio":1300,
+            "img":"img/not.jpg"
+            },
+        {
+            "nombre":"Campera Timo",
+            "tipo":"campera",
+            "color":"Gris",
+            "precio":1600,
+            "img":"img/not.jpg"
+            },
+        {
+            "nombre":"Musculosa Dzahrt",
+            "tipo":"remera",
+            "color":"Negro",
+            "precio":850,
+            "img":"img/not.jpg"
+        }
+        ]
+}
